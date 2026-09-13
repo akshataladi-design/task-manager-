@@ -1,0 +1,12 @@
+{
+  "name": "industrial-task-manager",
+  "version": "1.0.0",
+  "description": "Industrial responsive task tracker with team routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

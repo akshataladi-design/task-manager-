@@ -1,0 +1,56 @@
+{
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Emergency System Test",
+      "description": "Test emergency cut-offs on Assembly Line A.",
+      "status": "Pending",
+      "assignedTo": "member-1",
+      "createdAt": "2026-06-09T04:28:24.638Z"
+    },
+    {
+      "id": "task-2",
+      "title": "HVAC Filter Replacement",
+      "description": "Replace standard filters on secondary intake unit.",
+      "status": "Ongoing",
+      "assignedTo": "member-2",
+      "createdAt": "2026-06-09T04:28:24.639Z"
+    },
+    {
+      "id": "task-3",
+      "title": "Pressure Valve Calibration",
+      "description": "Recalibrate boiler valve intake flow.",
+      "status": "Completed",
+      "assignedTo": "member-1",
+      "createdAt": "2026-06-09T04:28:24.639Z"
+    },
+    {
+      "id": "task-1780987901565",
+      "title": "Websites building",
+      "description": "Build the websites as per the client's requirements",
+      "status": "Pending",
+      "assignedTo": "member-1780987847050",
+      "createdAt": "2026-06-09T06:51:41.565Z"
+    }
+  ],
+  "team": [
+    {
+      "id": "member-1",
+      "name": "Marcus Vance",
+      "accessLevel": "Administrator",
+      "role": "Chief Inspector"
+    },
+    {
+      "id": "member-2",
+      "name": "Elena Rostova",
+      "accessLevel": "Supporting Member",
+      "role": "HVAC Specialist"
+    },
+    {
+      "id": "member-1780987847050",
+      "name": "Samiksha Zodape",
+      "accessLevel": "Supporting Member",
+      "role": "Web Developer"
+    }
+  ]
+}
